@@ -1,0 +1,24 @@
+
+Q1:
+Test cases:
+
+1. After uploading the document, selfie and selecting the checkbox, will the start button work properly.
+2. After uploading only the document and clicking the checkbox, will the start button work. 
+3. After uploading only the selfie and clicking the checkbox, will the start button work.
+4. Will the start button work without uploading anything and just by just clicking the checkbox.
+5. Will the start button work without uploading anything and also not clicking the checkbox.
+6. After choosing the documents, are the documents be uploaded properly.
+7. After clicking the selfie, is the selfie uploaded properly.
+8. After uploading the documents and selfie, but not clicking the checkbox, will the start button work.
+9. After uploading the document but not selfie, and not clicking the checkbox, will the start button work.
+10. After uploading selfie but not documents, and not clicking the checkbox, will start button work.
+
+
+Q2:
+Negetive Scenarios: (Assuming choosing EITHER documents or selfie is optional, but checkbox is mandatory)
+ 
+1. Without uploading any documents and selfie and also not clicking the check box, the start button works.
+2. Uploading all documents and selfie, clicking the checkbox, the start button is not working.
+3. Uploading documents and but not selfie, clicking the checkbox, the start button is not working.
+4. Uploading selfie and but not documents, clicking the checkbox, the start button is not working.
+5. Not uploading any documents and selfie, clicking the checkbox, the start button is working.
